@@ -1,0 +1,6 @@
+{
+  "name": "IELTS MASTER",
+  "description": "Comprehensive, open-access IELTS preparation platform with 36+ Reading, 36+ Listening with audio, 36+ Writing, 36+ Speaking, 36+ Grammar, 500+ Vocabulary, and Full Mock Exams.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

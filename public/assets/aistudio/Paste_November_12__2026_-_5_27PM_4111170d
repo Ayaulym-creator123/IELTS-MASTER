@@ -1,0 +1,1110 @@
+IELTS MASTER — COMPLETE WEBSITE DEVELOPMENT PROMPT
+
+PROJECT OBJECTIVE
+
+Build a complete, production-ready IELTS preparation platform called IELTS MASTER.
+
+The platform must be a fully functional, publicly accessible web application, not a static website, visual mockup, prototype, or demonstration.
+
+It is designed for students in Kazakhstan who want to prepare for the IELTS Academic and General Training examinations.
+
+The website owner will share one public website link with students. Anyone who opens this link must be able to immediately access all available learning materials and begin preparing for IELTS.
+
+There must be NO registration, NO sign-up, NO login, NO passwords, and NO personal account creation.
+
+The website must be completely open and accessible to everyone without authentication.
+
+Main requirements
+	1.	The entire website must be in English only.
+	2.	Anyone with the website link must have immediate access to the platform.
+	3.	No registration, sign-up, login, passwords, or personal accounts.
+	4.	No authentication or account approval system.
+	5.	No subscriptions, payment methods, billing, or payment gateways.
+	6.	At least 36 complete Reading tasks.
+	7.	At least 36 complete Listening tasks.
+	8.	At least 36 complete Writing tasks.
+	9.	At least 36 complete Speaking tasks.
+	10.	At least 36 complete Grammar exercises.
+	11.	At least 500 unique English vocabulary entries.
+	12.	Multiple complete IELTS mock examinations.
+	13.	A professional, modern, responsive design.
+	14.	All educational features must actually work.
+
+Do not simplify or omit the required educational content.
+
+⸻
+
+1. LANGUAGE AND REGIONAL REQUIREMENTS
+
+English-only platform
+
+The entire website must use English exclusively.
+
+This applies to:
+	•	Homepage.
+	•	Navigation.
+	•	Buttons.
+	•	Menus.
+	•	Learning modules.
+	•	Instructions.
+	•	Notifications.
+	•	Messages.
+	•	Settings.
+	•	Exercise descriptions.
+	•	Grammar explanations.
+	•	Vocabulary explanations.
+	•	Mock examinations.
+	•	Results.
+	•	Statistics.
+	•	All other website content.
+
+Do not use Kazakh or Russian words anywhere in the interface.
+
+Do not use Cyrillic characters in the website interface or educational content.
+
+English must remain the only language regardless of the user’s location.
+
+Kazakh sample names
+
+Use authentic Kazakh names in sample data where names are necessary.
+
+Examples:
+	•	Ayaulym Yessengenova
+	•	Aruzhan Sarsenova
+	•	Alikhan Nurlanov
+	•	Daniyar Abdrakhmanov
+	•	Madina Kassymova
+	•	Aidana Muratova
+	•	Nurasyl Bekov
+	•	Zhansaya Yermekova
+
+Do not use typical English or American names for demonstration examples.
+
+Regional settings
+	•	Default timezone: Asia/Almaty.
+	•	Support students based in Kazakhstan.
+	•	Use appropriate local date and time settings.
+	•	Keep the entire platform in English.
+
+⸻
+
+2. PUBLIC ACCESS — NO REGISTRATION OR LOGIN
+
+This is one of the most important requirements.
+
+The platform must be completely open to the public.
+
+Students must be able to access the website immediately through its public URL.
+
+Completely remove authentication functionality.
+
+Do NOT implement:
+	•	Sign Up.
+	•	Registration.
+	•	Login.
+	•	Log In.
+	•	Sign In.
+	•	Password creation.
+	•	Password confirmation.
+	•	Password recovery.
+	•	Email verification.
+	•	Phone verification.
+	•	User accounts.
+	•	Student profiles requiring authentication.
+	•	Account approval.
+	•	Pending registration requests.
+	•	Student permissions.
+	•	User roles.
+	•	Administrator accounts.
+	•	Authentication forms.
+	•	Protected student pages.
+	•	Any other account-related functionality.
+
+Do not display registration or login buttons anywhere.
+
+Do not redirect visitors to authentication pages.
+
+Do not request students’ names, emails, phone numbers, or passwords.
+
+Public access behavior
+
+When someone opens the website link:
+	1.	The homepage loads immediately.
+	2.	The student can navigate through all available learning modules.
+	3.	The student can open Reading, Listening, Writing, Speaking, Grammar, and Vocabulary.
+	4.	The student can take exercises without creating an account.
+	5.	The student can take complete IELTS mock examinations.
+	6.	The student can view their results immediately after completing exercises.
+	7.	The student can use the website without providing any personal information.
+
+There must be no access restrictions based on registration or account status.
+
+Anyone with the public website link must have equal access to all learning materials and educational functionality.
+
+⸻
+
+3. DESIGN AND VISUAL IDENTITY
+
+Create a premium, modern, elegant educational platform.
+
+The visual identity should resemble a professionally developed international IELTS preparation product.
+
+Design direction
+	•	Minimalist.
+	•	Modern.
+	•	Premium.
+	•	Professional.
+	•	Academic.
+	•	Clean.
+	•	Elegant.
+	•	Easy to navigate.
+
+Visual elements
+	•	Professional typography.
+	•	Carefully selected color palette.
+	•	Modern cards.
+	•	Clean layouts.
+	•	Beautiful progress indicators.
+	•	Interactive charts.
+	•	Clear navigation.
+	•	Well-designed forms where needed for educational activities.
+	•	Subtle animations.
+	•	Smooth page transitions.
+	•	Consistent icons.
+	•	Responsive layouts.
+	•	Professional loading states.
+	•	Helpful empty states.
+
+User experience
+
+Visitors should immediately understand:
+	•	Where to start studying.
+	•	How to select an IELTS skill.
+	•	How to complete exercises.
+	•	How to take a mock test.
+	•	Where to find their results.
+	•	How to track their progress.
+
+Avoid:
+	•	Cluttered layouts.
+	•	Excessive gradients.
+	•	Random colors.
+	•	Oversized typography.
+	•	Unnecessary decorative elements.
+	•	Empty cards.
+	•	Fake statistics.
+	•	Non-functional buttons.
+	•	Placeholder pages.
+
+⸻
+
+4. WEBSITE STRUCTURE AND NAVIGATION
+
+Create the following main sections.
+
+Public pages
+	1.	Home.
+	2.	About IELTS MASTER.
+	3.	IELTS Preparation.
+	4.	Features.
+	5.	Contact.
+
+Learning platform
+	1.	Main Dashboard.
+	2.	Reading.
+	3.	Listening.
+	4.	Writing.
+	5.	Speaking.
+	6.	Grammar.
+	7.	Vocabulary.
+	8.	Full Mock Tests.
+	9.	My Results.
+	10.	My Progress.
+	11.	Study History.
+
+All pages must be publicly accessible without login.
+
+Every navigation item must lead to a real, functional page.
+
+⸻
+
+5. MAIN DASHBOARD
+
+Create a beautiful main dashboard that everyone can access immediately.
+
+Include:
+
+Welcome section
+	•	Welcome to IELTS MASTER.
+	•	A short description of the platform.
+	•	A clear Start Learning button.
+	•	Quick access to all learning modules.
+
+Learning overview
+
+Create attractive cards for:
+	•	Reading.
+	•	Listening.
+	•	Writing.
+	•	Speaking.
+	•	Grammar.
+	•	Vocabulary.
+	•	Full Mock Tests.
+
+Each card must contain:
+	•	Module title.
+	•	Short description.
+	•	Number of available exercises.
+	•	Difficulty information.
+	•	Start button.
+
+Additional sections
+	•	IELTS preparation guide.
+	•	Recommended learning sequence.
+	•	Study tips.
+	•	IELTS scoring information.
+	•	Featured exercises.
+	•	Latest available mock tests.
+
+Do not display fake user statistics or fake student activity.
+
+The dashboard must provide immediate access to the educational content.
+
+⸻
+
+6. IELTS READING MODULE
+
+Create a complete IELTS Reading preparation system containing at least 36 fully developed Reading tasks.
+
+The tasks must reflect authentic IELTS Academic and General Training question formats.
+
+Include:
+	1.	Multiple Choice.
+	2.	True / False / Not Given.
+	3.	Yes / No / Not Given.
+	4.	Matching Headings.
+	5.	Matching Information.
+	6.	Matching Features.
+	7.	Matching Sentence Endings.
+	8.	Sentence Completion.
+	9.	Summary Completion.
+	10.	Note Completion.
+	11.	Table Completion.
+	12.	Flow-chart Completion.
+	13.	Diagram Label Completion.
+	14.	Short Answer Questions.
+
+Content requirements
+
+Each task must contain:
+	•	A complete reading passage.
+	•	Authentic IELTS-style language.
+	•	Appropriate passage length.
+	•	A complete set of questions.
+	•	Answer options where appropriate.
+	•	Correct answers.
+	•	Detailed explanations.
+	•	Difficulty level.
+	•	Estimated completion time.
+	•	Topic category.
+
+Include topics such as:
+	•	Education.
+	•	Science.
+	•	Technology.
+	•	Environment.
+	•	History.
+	•	Psychology.
+	•	Health.
+	•	Society.
+	•	Culture.
+	•	Business.
+	•	Economics.
+	•	Nature.
+	•	Innovation.
+	•	Global issues.
+
+Functionality
+
+Students must be able to:
+	•	Select a Reading task.
+	•	Read the complete passage.
+	•	Answer questions.
+	•	Navigate between questions.
+	•	Submit answers.
+	•	Receive automatic scoring.
+	•	View correct answers.
+	•	Read explanations.
+	•	Review mistakes.
+	•	Restart exercises.
+	•	Track their progress locally where appropriate.
+
+Include realistic time limits.
+
+Do not use short artificial passages as substitutes for complete IELTS-style Reading materials.
+
+⸻
+
+7. IELTS LISTENING MODULE
+
+Create at least 36 fully developed IELTS Listening tasks.
+
+The tasks must reflect authentic IELTS Listening question formats.
+
+Include:
+	1.	Multiple Choice.
+	2.	Matching.
+	3.	Plan / Map / Diagram Labelling.
+	4.	Form Completion.
+	5.	Note Completion.
+	6.	Table Completion.
+	7.	Flow-chart Completion.
+	8.	Sentence Completion.
+	9.	Short Answer Questions.
+
+Audio requirements
+
+Every Listening task must contain actual playable audio.
+
+Do not create Listening exercises that only display written transcripts.
+
+Use real recorded audio or properly generated audio files.
+
+Each task must include:
+	•	Audio player.
+	•	Play and pause controls.
+	•	Audio progress bar.
+	•	Volume control.
+	•	Audio duration.
+	•	Appropriate replay functionality.
+	•	Complete questions.
+	•	Correct answers.
+	•	Answer explanations.
+	•	Difficulty level.
+
+Listening content
+
+Include all four IELTS Listening sections:
+	•	Section 1: Everyday social conversation.
+	•	Section 2: Everyday monologue.
+	•	Section 3: Educational or training conversation.
+	•	Section 4: Academic monologue.
+
+Include different English accents, such as:
+	•	British English.
+	•	Australian English.
+	•	Other appropriate international English accents.
+
+Functionality
+
+Students must be able to:
+	•	Play audio.
+	•	Answer questions.
+	•	Navigate between questions.
+	•	Submit answers.
+	•	Receive automatic scoring.
+	•	Review incorrect answers.
+	•	View explanations.
+	•	Restart exercises.
+
+⸻
+
+8. IELTS WRITING MODULE
+
+Create at least 36 complete IELTS Writing tasks.
+
+Include both IELTS Academic and IELTS General Training.
+
+Academic Writing Task 1
+
+Include:
+	•	Line graphs.
+	•	Bar charts.
+	•	Pie charts.
+	•	Tables.
+	•	Maps.
+	•	Process diagrams.
+	•	Mixed charts.
+
+Each task must include:
+	•	A complete IELTS-style visual prompt.
+	•	Clear instructions.
+	•	A realistic writing requirement.
+	•	A minimum word count.
+	•	Relevant assessment criteria.
+
+General Training Writing Task 1
+
+Include:
+	•	Formal letters.
+	•	Semi-formal letters.
+	•	Informal letters.
+
+Each task must include a realistic situation and clearly defined points that the student must address.
+
+Writing Task 2
+
+Include:
+	•	Opinion essays.
+	•	Discussion essays.
+	•	Advantages and disadvantages essays.
+	•	Problem and solution essays.
+	•	Two-part question essays.
+
+Writing editor
+
+Provide:
+	•	Functional text editor.
+	•	Word counter.
+	•	Character counter.
+	•	Writing timer.
+	•	Task instructions.
+	•	Save draft functionality where browser storage permits.
+	•	Submission functionality.
+	•	Previous draft history where locally available.
+
+Model answers
+
+Provide model answers at appropriate IELTS levels, including:
+	•	Band 6.0.
+	•	Band 7.0.
+	•	Band 8.0.
+	•	Band 9.0.
+
+Assessment
+
+Evaluate writing according to the official IELTS assessment criteria:
+	1.	Task Achievement / Task Response.
+	2.	Coherence and Cohesion.
+	3.	Lexical Resource.
+	4.	Grammatical Range and Accuracy.
+
+Provide:
+	•	Estimated band score where appropriate.
+	•	Detailed feedback.
+	•	Grammar corrections.
+	•	Vocabulary suggestions.
+	•	Structural recommendations.
+	•	Areas for improvement.
+
+If AI evaluation is implemented, it must provide meaningful feedback based on IELTS criteria.
+
+Do not generate arbitrary scores or pretend that a submission has been evaluated when no evaluation has taken place.
+
+⸻
+
+9. IELTS SPEAKING MODULE
+
+Create at least 36 complete IELTS Speaking practice tasks.
+
+Include all three IELTS Speaking parts.
+
+Part 1 — Introduction and Interview
+
+Include:
+	•	Personal topics.
+	•	Everyday activities.
+	•	Education.
+	•	Work.
+	•	Hobbies.
+	•	Family.
+	•	Technology.
+	•	Travel.
+	•	Food.
+	•	Daily routines.
+
+Part 2 — Individual Long Turn
+
+Include:
+	•	Complete IELTS-style cue cards.
+	•	One-minute preparation.
+	•	Two-minute speaking practice.
+	•	Relevant follow-up questions.
+
+Part 3 — Discussion
+
+Include:
+	•	Abstract topics.
+	•	Society.
+	•	Education.
+	•	Technology.
+	•	Environment.
+	•	Culture.
+	•	Global issues.
+	•	More complex discussion questions.
+
+Speaking functionality
+
+Provide:
+	•	Audio recording.
+	•	Microphone permissions.
+	•	Recording timer.
+	•	Playback functionality.
+	•	Preparation timer.
+	•	Speaking timer.
+	•	Model answers.
+	•	Useful vocabulary.
+	•	Suggested expressions.
+	•	Topic-related phrases.
+
+Feedback
+
+Where technically supported, provide:
+	•	Fluency and coherence feedback.
+	•	Lexical resource feedback.
+	•	Grammar feedback.
+	•	Pronunciation feedback.
+	•	Estimated IELTS band score.
+
+If speech recognition or AI speaking evaluation is implemented, it must actually process the recording.
+
+Do not display fabricated feedback or arbitrary scores.
+
+⸻
+
+10. GRAMMAR MODULE
+
+Create at least 36 complete Grammar exercises.
+
+Cover the following topics:
+	1.	Present Simple.
+	2.	Present Continuous.
+	3.	Present Perfect.
+	4.	Present Perfect Continuous.
+	5.	Past Simple.
+	6.	Past Continuous.
+	7.	Past Perfect.
+	8.	Past Perfect Continuous.
+	9.	Future Forms.
+	10.	Modal Verbs.
+	11.	Passive Voice.
+	12.	Zero Conditional.
+	13.	First Conditional.
+	14.	Second Conditional.
+	15.	Third Conditional.
+	16.	Mixed Conditionals.
+	17.	Relative Clauses.
+	18.	Reported Speech.
+	19.	Articles.
+	20.	Prepositions.
+	21.	Gerunds and Infinitives.
+	22.	Comparatives and Superlatives.
+	23.	Subject-Verb Agreement.
+	24.	Sentence Structures.
+	25.	Complex Sentences.
+	26.	Conjunctions.
+	27.	Punctuation.
+	28.	Word Formation.
+	29.	Countable and Uncountable Nouns.
+	30.	Quantifiers.
+	31.	Determiners.
+	32.	Pronouns.
+	33.	Adjectives and Adverbs.
+	34.	Linking Words.
+	35.	Inversion.
+	36.	Advanced Grammar Structures.
+
+Each topic must contain:
+	•	Clear explanations in English.
+	•	Examples.
+	•	Complete practice exercises.
+	•	Multiple question types.
+	•	Correct answers.
+	•	Detailed explanations.
+	•	Difficulty levels.
+
+Include exercises suitable for different English proficiency levels.
+
+⸻
+
+11. VOCABULARY MODULE
+
+Create a vocabulary database containing at least 500 unique English words and expressions.
+
+Do not use repeated entries to reach the minimum.
+
+Vocabulary categories
+
+Organize words into:
+	•	Education.
+	•	Technology.
+	•	Environment.
+	•	Health.
+	•	Society.
+	•	Culture.
+	•	Business.
+	•	Science.
+	•	Travel.
+	•	Work.
+	•	Government.
+	•	Media.
+	•	Psychology.
+	•	Economics.
+	•	Crime.
+	•	Globalization.
+	•	IELTS Academic Vocabulary.
+	•	IELTS Writing Vocabulary.
+	•	IELTS Speaking Vocabulary.
+
+Each vocabulary entry must include
+	•	English word or expression.
+	•	Definition in English.
+	•	Example sentence.
+	•	Part of speech.
+	•	Synonyms where appropriate.
+	•	Phonetic transcription.
+	•	Difficulty level.
+	•	Topic category.
+
+Vocabulary functionality
+
+Implement:
+	•	Search.
+	•	Category filters.
+	•	Difficulty filters.
+	•	Favorite words.
+	•	Personal vocabulary lists stored locally.
+	•	Flashcards.
+	•	Spaced repetition.
+	•	Vocabulary quizzes.
+	•	Review sessions.
+	•	Learning progress stored locally.
+	•	Previously learned words.
+	•	Words that need revision.
+
+The vocabulary system must work with actual vocabulary records.
+
+⸻
+
+12. FULL IELTS MOCK EXAMINATIONS
+
+Create multiple complete IELTS mock examinations.
+
+Include:
+	•	IELTS Academic.
+	•	IELTS General Training.
+
+Each complete mock examination must contain all four skills:
+	1.	Reading.
+	2.	Listening.
+	3.	Writing.
+	4.	Speaking.
+
+Mock examination requirements
+
+Reading
+	•	Complete passages.
+	•	Authentic question formats.
+	•	Realistic exam structure.
+	•	Appropriate time limits.
+
+Listening
+	•	Four sections.
+	•	Real audio recordings.
+	•	Complete question sets.
+	•	Automatic scoring.
+
+Writing
+	•	Task 1.
+	•	Task 2.
+	•	Realistic IELTS prompts.
+	•	Writing editor.
+	•	Word counter.
+	•	Submission functionality.
+
+Speaking
+	•	Part 1.
+	•	Part 2.
+	•	Part 3.
+	•	Speaking questions.
+	•	Recording functionality.
+
+Mock examination functionality
+
+Students must be able to:
+	•	Start a mock examination.
+	•	Complete each section.
+	•	Navigate between questions.
+	•	Use realistic timers.
+	•	Submit answers.
+	•	Receive results.
+	•	Review mistakes.
+	•	Compare attempts during the same browser session.
+	•	Track score improvement locally where appropriate.
+
+Do not label incomplete collections of questions as full mock examinations.
+
+⸻
+
+13. RESULTS AND PROGRESS TRACKING
+
+Implement a complete local student performance tracking system without requiring accounts.
+
+Track:
+	•	Exercises completed.
+	•	Exercises attempted.
+	•	Accuracy percentage.
+	•	Reading performance.
+	•	Listening performance.
+	•	Writing practice history.
+	•	Speaking practice history.
+	•	Grammar performance.
+	•	Vocabulary progress.
+	•	Mock examination scores.
+	•	Estimated IELTS band scores where supported.
+	•	Time spent studying.
+	•	Study streaks.
+	•	Historical performance during the current browser session and saved local history.
+
+Results dashboard
+
+Display:
+	•	Overall performance.
+	•	Individual skill performance.
+	•	Previous test results.
+	•	Score history.
+	•	Performance charts.
+	•	Strengths.
+	•	Weaknesses.
+	•	Recommended practice areas.
+
+Data storage
+
+Because the website has no user accounts:
+	•	Use browser local storage or IndexedDB to save individual learning progress.
+	•	Save completed exercises and preferences locally.
+	•	Restore locally saved progress when the same student returns using the same browser and device.
+	•	Do not request personal information to save progress.
+	•	Clearly explain that locally stored progress may not transfer to another device or browser.
+
+Do not pretend that anonymous local progress is synchronized between different students or devices.
+
+⸻
+
+14. DATABASE AND BACKEND ARCHITECTURE
+
+Implement a reliable architecture for public access.
+
+Recommended technologies:
+	•	React or Next.js.
+	•	TypeScript.
+	•	Supabase or Firebase if needed for shared educational content.
+	•	Secure backend APIs.
+	•	Database-backed learning materials.
+	•	Secure file storage for audio and images.
+
+Database functionality
+
+The backend may store:
+
+Educational content
+	•	Reading passages.
+	•	Reading questions.
+	•	Listening audio files.
+	•	Listening questions.
+	•	Writing tasks.
+	•	Speaking tasks.
+	•	Grammar lessons.
+	•	Grammar exercises.
+	•	Vocabulary entries.
+	•	Mock examinations.
+
+Platform content
+	•	Learning categories.
+	•	Difficulty levels.
+	•	Answer keys.
+	•	Explanations.
+	•	Audio files.
+	•	Images.
+	•	Educational resources.
+
+Do not create user authentication tables, student account systems, registration workflows, or login-related functionality.
+
+Data persistence
+
+All educational content must be stored reliably and remain available to every visitor.
+
+Individual student progress should be stored locally in the student’s browser unless an optional anonymous storage solution is implemented without requiring personal information or accounts.
+
+⸻
+
+15. SECURITY AND PUBLIC ACCESS
+
+The platform is public, but backend services and administrative credentials must remain secure.
+
+Implement:
+	•	Secure API configuration.
+	•	Environment variables.
+	•	Protection of private API keys.
+	•	Input validation.
+	•	Safe file handling.
+	•	Rate limiting where appropriate.
+	•	Protection against malicious input.
+	•	Secure database access policies.
+
+Do not expose:
+	•	Private API keys.
+	•	Database service-role keys.
+	•	Secret credentials.
+	•	Administrative access tokens.
+
+Since there is no login system, do not create a hidden login page or an alternative registration route.
+
+Do not add authentication later as an automatic workaround.
+
+All educational content intended for students must be publicly accessible.
+
+⸻
+
+16. CONTENT MANAGEMENT AND ADMINISTRATIVE EDITING
+
+The website must not contain student registration or login functionality.
+
+If a content management interface is needed during development, keep it separate from the public student experience and do not add visible authentication or account creation to the learning website.
+
+All required educational content should be included in the initial application.
+
+Prioritize complete, ready-to-use learning materials over unnecessary administrative features.
+
+⸻
+
+17. RESPONSIVE DESIGN AND PERFORMANCE
+
+The entire platform must work properly on:
+	•	Desktop computers.
+	•	Laptops.
+	•	Tablets.
+	•	Mobile phones.
+
+Implement:
+	•	Responsive navigation.
+	•	Mobile-friendly dashboards.
+	•	Touch-friendly buttons.
+	•	Responsive exercise layouts.
+	•	Adaptable audio players.
+	•	Responsive charts.
+	•	Proper text scaling.
+
+Optimize:
+	•	Page loading speed.
+	•	Database queries.
+	•	Image sizes.
+	•	Audio loading.
+	•	Component rendering.
+	•	API requests.
+
+Avoid unnecessary dependencies and excessive resource usage.
+
+⸻
+
+18. ERROR HANDLING AND USER FEEDBACK
+
+Implement clear feedback for all important actions.
+
+Examples:
+	•	Exercise submitted.
+	•	Answers saved.
+	•	Results generated.
+	•	Draft saved.
+	•	Recording started.
+	•	Recording completed.
+	•	Audio unavailable.
+	•	Connection error.
+	•	Content unavailable.
+
+Use:
+	•	Loading indicators.
+	•	Confirmation dialogs where appropriate.
+	•	Success notifications.
+	•	Error notifications.
+	•	Empty states.
+	•	Form validation.
+	•	Helpful error messages.
+
+Never leave users with buttons that do nothing or pages that fail silently.
+
+⸻
+
+19. QUALITY ASSURANCE AND TESTING
+
+Before considering the platform complete, test all major functionality.
+
+Public access tests
+	•	Open the homepage without an account.
+	•	Open every learning module without login.
+	•	Open exercises directly through their URLs.
+	•	Verify that no registration page exists.
+	•	Verify that no login page exists.
+	•	Verify that no password forms exist.
+	•	Verify that no authentication redirects exist.
+
+Educational functionality tests
+	•	Reading exercises.
+	•	Listening audio playback.
+	•	Listening answer checking.
+	•	Writing submissions.
+	•	Speaking recordings.
+	•	Grammar exercises.
+	•	Vocabulary search.
+	•	Flashcards.
+	•	Mock examinations.
+	•	Scoring.
+	•	Results.
+	•	Local progress tracking.
+
+Interface tests
+	•	Desktop layout.
+	•	Tablet layout.
+	•	Mobile layout.
+	•	Navigation.
+	•	Buttons.
+	•	Notifications.
+	•	Loading states.
+	•	Error states.
+
+Fix all major bugs before deployment.
+
+Do not claim a feature works unless it has been implemented and tested.
+
+⸻
+
+20. DEVELOPMENT AND IMPLEMENTATION RULES
+
+Follow these instructions throughout development.
+	1.	Build the actual working application.
+	2.	Do not stop after generating a landing page.
+	3.	Do not create a frontend-only demonstration.
+	4.	Do not use fake data as a replacement for real educational content.
+	5.	Do not create empty modules.
+	6.	Do not use repeated questions to reach the required content quantity.
+	7.	Do not use placeholder text for required educational materials.
+	8.	Do not create buttons without functionality.
+	9.	Do not leave navigation links unfinished.
+	10.	Do not implement payment or subscription functionality.
+	11.	Do not implement registration.
+	12.	Do not implement sign-up.
+	13.	Do not implement login.
+	14.	Do not implement passwords or personal accounts.
+	15.	Do not request personal information.
+	16.	Do not use Kazakh or Russian interface text.
+	17.	Do not use Cyrillic characters in the website interface.
+	18.	Do not remove any required IELTS learning modules.
+
+Implementation priority
+
+Build the application in the following order:
+
+Phase 1 — Foundation
+	•	Project architecture.
+	•	Design system.
+	•	Responsive layouts.
+	•	Public homepage.
+	•	Main navigation.
+	•	Educational content structure.
+
+Phase 2 — Learning platform
+	•	Main dashboard.
+	•	Reading.
+	•	Listening.
+	•	Writing.
+	•	Speaking.
+	•	Grammar.
+	•	Vocabulary.
+
+Phase 3 — Examinations
+	•	Full IELTS mock tests.
+	•	Timers.
+	•	Scoring.
+	•	Results.
+	•	Performance analysis.
+
+Phase 4 — Progress tracking
+	•	Local progress storage.
+	•	Exercise history.
+	•	Vocabulary progress.
+	•	Mock test history.
+	•	Performance charts.
+
+Phase 5 — Testing and deployment
+	•	Functional testing.
+	•	Responsive testing.
+	•	Performance optimization.
+	•	Production deployment.
+
+Do not sacrifice educational content quality or working functionality to make the interface look finished sooner.
+
+⸻
+
+21. FINAL ACCEPTANCE CRITERIA
+
+The project is complete only when all the following requirements are satisfied.
+
+Platform
+	•	Fully functional website.
+	•	English-only interface.
+	•	Premium responsive design.
+	•	Working navigation.
+	•	Public access through one URL.
+	•	No registration.
+	•	No sign-up.
+	•	No login.
+	•	No passwords.
+	•	No personal accounts.
+	•	No authentication requirements.
+
+Educational content
+	•	At least 36 complete Reading tasks.
+	•	At least 36 complete Listening tasks.
+	•	At least 36 complete Writing tasks.
+	•	At least 36 complete Speaking tasks.
+	•	At least 36 complete Grammar exercises.
+	•	At least 500 unique Vocabulary entries.
+	•	Multiple complete IELTS Academic mock tests.
+	•	Multiple complete IELTS General Training mock tests.
+
+Functionality
+	•	Actual Reading answer checking.
+	•	Actual Listening audio.
+	•	Actual objective-question scoring.
+	•	Functional Writing editor.
+	•	Functional Speaking recording.
+	•	Working vocabulary search.
+	•	Working flashcards.
+	•	Local progress storage.
+	•	Examination results.
+	•	Performance tracking.
+
+Accessibility
+	•	Anyone with the website link can access all learning materials.
+	•	No registration or login is required.
+	•	No personal information is requested.
+	•	No payment is required.
+
+Financial restrictions
+	•	No subscriptions.
+	•	No membership plans.
+	•	No payment gateways.
+	•	No payment methods.
+	•	No billing.
+	•	No checkout.
+	•	No payment-related functionality.
+
+⸻
+
+FINAL INSTRUCTION
+
+Build IELTS MASTER as a complete, functional, production-ready IELTS preparation platform that is open to everyone.
+
+The website must work through one public link.
+
+A student must be able to open the link and start preparing for IELTS immediately, without registering, signing up, logging in, entering a password, or providing any personal information.
+
+Do not create a concept, prototype, landing page, or visual representation instead of the actual application.
+
+Implement the complete frontend, reliable content architecture, all educational modules, actual exercises, real audio, scoring functionality, mock examinations, and local progress tracking.
+
+Prioritize correctness, completeness, authentic IELTS content, accessibility, and a professional user experience.
+
+Before finishing, verify every requirement in the acceptance criteria.
+
+The final result must be a fully open IELTS preparation website where every visitor can immediately start learning.
